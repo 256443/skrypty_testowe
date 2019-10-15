@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="for_facebook_example_tests" />
+        <module name="POM_for_guru99_web_example_tests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="for_facebook_example_tests" target="1.5" />
+      <module name="POM_for_guru99_web_example_tests" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
